@@ -24,7 +24,7 @@ Sou um desenvolvedor focado na construção de soluções web de alta performanc
 - **AI-First Workflow**: Engenharia acelerada e refatoração inteligente com IA.
 - **Domínio Fullstack**: Experiência técnica em Next.js, React, Node.js e ecossistemas PHP.
 - **Foco em UX & Performance**: Interfaces fluidas e otimização de Core Web Vitals.
-- **Segurança & Conformidade**: Auditorias XSS e conformidade LGPD integradas.
+- **Segurança**: Conformidade com as melhores práticas de segurança.
 
 ---
 
