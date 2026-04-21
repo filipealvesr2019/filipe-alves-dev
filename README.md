@@ -12,10 +12,10 @@ Sou um desenvolvedor focado na construção de soluções web de alta performanc
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
-| **Plataformas** | <img src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" /> |
-| **IA & Workflow** | <img src="https://img.shields.io/badge/Antigravity-0070f3?style=for-the-badge&logo=ai" /> <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black" /> |
+| **Frontend** | <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" /></a> <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" /></a> <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" /></a> |
+| **Backend** | <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" /></a> <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a> |
+| **Plataformas** | <a href="#"><img src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify" /></a> <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" /></a> |
+| **IA & Workflow** | <a href="#"><img src="https://img.shields.io/badge/Antigravity-0070f3?style=for-the-badge&logo=ai" /></a> <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black" /></a> |
 
 ---
 
