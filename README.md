@@ -1,4 +1,4 @@
-![Banner](github_banner.png)
+<img src="github_banner.png" width="100%" height="150" style="object-fit: cover;" />
 
 # 👋 Oi, eu sou o Filipe!
 
