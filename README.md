@@ -12,10 +12,10 @@ Sou um desenvolvedor focado na construção de soluções web de alta performanc
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Plataformas** | ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress) |
-| **IA & Workflow** | ![Antigravity](https://img.shields.io/badge/Antigravity-0070f3?style=for-the-badge&logo=ai) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black) |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
+| **Plataformas** | <img src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" /> |
+| **IA & Workflow** | <img src="https://img.shields.io/badge/Antigravity-0070f3?style=for-the-badge&logo=ai" /> <img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=openai&logoColor=black" /> |
 
 ---
 
